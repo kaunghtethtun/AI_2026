@@ -2,12 +2,14 @@
 - some python modules , os modules
 - just theory 
 - Fruit Recognition system
+- Statistics
 - Face Recognition system without NN, CNN
- 
+
 
 
 ### PYTHON MODULES
 - [photos](https://drive.google.com/drive/folders/1YZkNnSCcZwCR6mBu6ctWxyZQkWkXP49m?usp=sharing)
+- [lecture](https://drive.google.com/file/d/1i51i6hsgnAbq8X8-vRtMmIeHwbVb3ukw/view?usp=sharing)
 
 #### photo 2, 3
 - glob modules, regular expressions

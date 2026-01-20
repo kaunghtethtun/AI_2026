@@ -7,6 +7,7 @@
 ### FRUIT RECOGNITION
 - [photos](https://drive.google.com/drive/folders/1_A0ldPMhr0CSwZLrDjxnFJD4Goq1lDfh?usp=sharing)
 - [fruit dataset](https://drive.google.com/file/d/1LKqGV-k_kZBhe_8it3h-0y8byIXsLkTi/view?usp=sharing)
+- [lecture](https://drive.google.com/file/d/1hprbV6fZdzoEysM5mP2E8RxqlWLCzrYA/view?usp=sharing)
 - [code](https://www.google.com)
 
 #### HOG 01 to 07
