@@ -90,8 +90,9 @@ wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
 bash Miniconda3-latest-Linux-x86_64.sh
 
 # Environment အသစ်ဖန်တီးပါ
-conda create -n isaaclab python=3.10
-conda activate isaaclab
+conda create -n env_isaaclab python=3.10
+conda activate env_isaaclab
+pip install --upgrade pip
 ```
 
 ### ၃.၂ Isaac Lab Repository Clone လုပ်ရန်
