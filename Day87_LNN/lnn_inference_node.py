@@ -257,8 +257,8 @@ class LNNInferenceNode(Node):
             
             # Publish
             cmd_msg = Twist()
-            khh_const = 10.0
-            ang_const = 5.0
+            khh_const = 50.0  # Increased for better linear velocity
+            ang_const = 3.0
             cmd_msg.linear.x = linear_x * khh_const
             cmd_msg.angular.z = angular_z / ang_const
             self.cmd_vel_pub.publish(cmd_msg)
