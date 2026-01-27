@@ -122,7 +122,7 @@ python -m ipykernel install --user --name myenv
 
 ```bash 
 pip freeze | grep -v "file://" > requirment.txt
-
+4
 ```
 
 

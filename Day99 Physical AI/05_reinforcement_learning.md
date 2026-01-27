@@ -19,7 +19,7 @@ python train.py --task=Isaac-Velocity-Rough-G1-v0 --num_envs=64 --headless
 #### play g1
 ```
 cd /home/mr_robot/ISAAAC/IsaacLab/scripts/reinforcement_learning/rsl_rl
-python play.py --task=Isaac-Velocity-Rough-G1-v0 --num_envs=5 checkpoint=logs/rsl_rl/g1_rough/2026-01-22_20-20-51/model_2999.pt
+python play.py --task=Isaac-Velocity-Rough-G1-v0 --num_envs=1 +checkpoint=logs/rsl_rl/g1_rough/2026-01-22_20-20-51/model_2999.pt
 # or use 
 # +checkpoint=logs/rsl_rl/g1_rough/2026-01-22_20-20-51/model_2999.pt
 ```
